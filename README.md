@@ -1,5 +1,4 @@
 # Tic-Tac-Toe
-================
 
 A Simple Tic-Tac-Toe Game Built with Vanilla JavaScript
 --------------------------------------------------------
@@ -36,7 +35,3 @@ The game is built using the following structure:
 ### Contributing
 
 Feel free to fork and modify the code to add new features or improve the game. Pull requests are welcome!
-
-### License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
